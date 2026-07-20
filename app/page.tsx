@@ -6,7 +6,7 @@ import About from "@/components/about/About";
 import Skills from "@/components/skills/Skills";
 import Projects from "@/components/projects/Projects";
 import GitHub from "@/components/github/GitHub";
-import Contact from "@/components/contact/Contact";
+import Contact from "@/components/contact/Contact";tact";
 
 
 export default function Home() {
